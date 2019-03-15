@@ -1,0 +1,17 @@
+div{
+  width: 100%;
+
+}
+
+h1{
+  text-align: center;
+  margin-top: 10%;
+  font-size: 300%;
+}
+
+audio{
+  display: block;
+  margin: auto;
+  width: 50%;
+  margin-top: 10%;
+}
